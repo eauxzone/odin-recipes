@@ -1,0 +1,30 @@
+* {
+    font-family: Verdana, Helvetica, sans-serif;
+}
+img {
+    height: auto;
+    width: 250px;
+}
+.title {
+    background-color: dimgray;
+    font-size: 48px;
+    font-weight: lighter;
+    color: white;
+}
+.recipe.list {
+    padding-left:100px;
+    background-color: lightgrey;
+}
+.recipe.link {
+    font-size: 18px;
+}
+.description {
+    font-size: 20px;
+    color: dimgray;
+}
+h2,
+h3,
+h4 {
+    color: dimgray;
+
+}
